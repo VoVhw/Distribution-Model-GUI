@@ -41,19 +41,10 @@ Gschwend, Philip M., Dieter M. Imboden, and Ren P. Schwarzenbach. Environmental 
 Feel free to contribute to this project by submitting issues or pull requests.
 
 How to Run
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/VoVhw/Distribution-Model-GUI.git
+Clone the repository: git clone https://github.com/VoVhw/Distribution-Model-GUI.git
 Navigate to the project directory:
-bash
-Copy code
-cd organic-contaminants-distribution-model
+cd Distribution-Model-GUI
 Install the required dependencies:
-bash
-Copy code
 pip install -r requirements.txt
 Run the program:
-bash
-Copy code
-python main.py
+python distributionModel.py
