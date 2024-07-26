@@ -39,3 +39,21 @@ To expand this project, automatic value retrieval from online databases could be
 References
 Gschwend, Philip M., Dieter M. Imboden, and Ren P. Schwarzenbach. Environmental Organic Chemistry. New York: John Wiley & Sons, Incorporated, 2016.
 Feel free to contribute to this project by submitting issues or pull requests.
+
+How to Run
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/your-username/organic-contaminants-distribution-model.git
+Navigate to the project directory:
+bash
+Copy code
+cd organic-contaminants-distribution-model
+Install the required dependencies:
+bash
+Copy code
+pip install -r requirements.txt
+Run the program:
+bash
+Copy code
+python main.py
