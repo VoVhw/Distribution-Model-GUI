@@ -44,7 +44,7 @@ How to Run
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/organic-contaminants-distribution-model.git
+git clone https://github.com/VoVhw/Distribution-Model-GUI.git
 Navigate to the project directory:
 bash
 Copy code
